@@ -1,0 +1,1 @@
+![Demo Screenshot](../screenshots/TipCalculatorDemo.png)
