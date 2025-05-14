@@ -1,1 +1,1 @@
-![JetBizCard Demo Screenshot](../screenshots/JetBizCardDemo.png)
+![JetBizCard Demo Screenshot](../screenshots/JetBizcardDemo.png)
